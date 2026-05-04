@@ -182,13 +182,6 @@ https://www.figma.com/design/LU1TuMlhCtXgnGx8DkIBsh/Bocetos-KAPRA
 
 
 
-\-Referencias visuales:
-
-https://www.canva.com/design/DAHE9xOqhuE/y0siHhDbl6-YtnmZ87WCVA
-
-
-
-
 
 Base de Datos
 
