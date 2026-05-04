@@ -245,7 +245,7 @@ MongoDB Atlas
 
 
 
-**Estado del Proyecto:**
+Estado del Proyecto:
 
-🚧 En desarrollo
+En desarrollo
 
