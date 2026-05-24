@@ -15,9 +15,9 @@ is_verified
 */
 
 
-import {schema, model} from 'mongoose';
+import {Schema, model} from 'mongoose';
 
-const customerSchema = new schema({
+const customerSchema = new Schema({
     name: {
         type: String
     },
@@ -48,7 +48,17 @@ const customerSchema = new schema({
     },
     is_verified: {
         type: Boolean
+    },
+    loginAttempts: {
+        type: Number
+    },
+    timeOut: {
+        type: Date
+    },
+    imagen_URL: {
+        type: String
     }
+
 }, {
     timestamps: true,
     strict: false
