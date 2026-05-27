@@ -21,7 +21,7 @@ const Nav = () => {
           </Link>
         </li>
         <li>
-          <Link to="/" className="flex items-center justify-center group-hover:justify-start gap-4 px-3 py-3 rounded-xl transition-all duration-200 hover:bg-white/10">
+          <Link to="/BaseProduct" className="flex items-center justify-center group-hover:justify-start gap-4 px-3 py-3 rounded-xl transition-all duration-200 hover:bg-white/10">
             <img src={camisaIcono} alt="Productos" className="w-6 h-6" />
             <span className="hidden group-hover:inline-block text-[18px] font-Inter font-SemiBold">Productos</span>
           </Link>
