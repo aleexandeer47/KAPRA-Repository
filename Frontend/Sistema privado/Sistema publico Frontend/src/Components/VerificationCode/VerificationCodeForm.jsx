@@ -1,5 +1,5 @@
 import { useState, useRef } from "react";
-import KapraLogo from "../assets/KapraLogoNavy.png"
+import KapraLogo from "../../assets/KapraLogoNavy.png"
 
 export default function VerificationCodeForm() {
   const [codigo, setCodigo] = useState(["", "", "", "", ""]);

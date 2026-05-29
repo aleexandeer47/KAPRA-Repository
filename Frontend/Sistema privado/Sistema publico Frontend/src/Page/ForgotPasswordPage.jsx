@@ -1,5 +1,5 @@
 import GeometricPanel from "../Components/GeometricPanel2";
-import ForgotPasswordForm from "../Components/ForgotPasswordForm";
+import ForgotPasswordForm from "../Components/ForgotPassword/ForgotPasswordForm";
 
 export default function ForgotPasswordPage() {
   return (
