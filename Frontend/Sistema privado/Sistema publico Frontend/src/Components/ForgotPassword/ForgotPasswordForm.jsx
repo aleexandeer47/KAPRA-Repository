@@ -1,5 +1,5 @@
 import { useState } from "react";
-import KapraLogo from "../assets/KapraLogoNavy.png";
+import KapraLogo from "../../assets/KapraLogoNavy.png";
 
 export default function ForgotPasswordForm() {
   const [correo, setCorreo] = useState("");

@@ -1,5 +1,5 @@
 import GeometricPanel from "../Components/GeometricPanel";
-import LoginForm from "../Components/LoginForm";
+import LoginForm from "../Components/Login/LoginForm";
 
 export default function LoginPage() {
   return (

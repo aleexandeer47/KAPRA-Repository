@@ -1,5 +1,5 @@
 import GeometricPanel from "../Components/GeometricPanel2";
-import NewPasswordForm from "../Components/NewPasswordForm";
+import NewPasswordForm from "../Components/NewPassword/NewPasswordForm";
 
 export default function NewPasswordPage() {
   return (

@@ -1,5 +1,5 @@
 import GeometricPanel from "../Components/GeometricPanel2";
-import VerificationCodeForm from "../Components/VerificationCodeForm";
+import VerificationCodeForm from "../Components/VerificationCode/VerificationCodeForm";
 
 export default function VerificationCodePage() {
   return (
